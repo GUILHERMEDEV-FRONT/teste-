@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dbcodefirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bd031033c9a25e420cb5fec659c968dd35f343")]
 [assembly: System.Reflection.AssemblyProductAttribute("dbcodefirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dbcodefirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

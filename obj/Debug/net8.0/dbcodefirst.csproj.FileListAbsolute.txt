@@ -128,3 +128,4 @@ C:\C\dbcodefirst\obj\Debug\net8.0\refint\dbcodefirst.dll
 C:\C\dbcodefirst\obj\Debug\net8.0\dbcodefirst.pdb
 C:\C\dbcodefirst\obj\Debug\net8.0\dbcodefirst.genruntimeconfig.cache
 C:\C\dbcodefirst\obj\Debug\net8.0\ref\dbcodefirst.dll
+C:\C\dbcodefirst\obj\Debug\net8.0\dbcodefirst.sourcelink.json
